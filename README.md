@@ -1,5 +1,5 @@
 # YouTube connector
-Mendix integration with [YouTube]. BigPicture is a data enrichment online platform. 
+Mendix integration with [YouTube].
 
 ## Setup
 You need to :
